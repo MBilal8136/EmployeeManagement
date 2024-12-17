@@ -1,0 +1,48 @@
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe.config
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\bin\Debug\EmpManagementTuto.pdb
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\bin\Debug\Guna.UI2.dll
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.AssemblyReference.cache
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.Employee.resources
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.Form1.resources
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.Home.resources
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.Login.resources
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.Properties.Resources.resources
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.GenerateResource.cache
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CoreCompileInputs.cache
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CopyComplete
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.exe
+C:\Users\A R PLUS\source\repos\EmpManagementTuto\obj\Debug\EmpManagementTuto.pdb
+F:\ff\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe.config
+F:\ff\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe
+F:\ff\EmpManagementTuto\bin\Debug\EmpManagementTuto.pdb
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.AssemblyReference.cache
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.Employee.resources
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.Form1.resources
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.Home.resources
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.Login.resources
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.Properties.Resources.resources
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.GenerateResource.cache
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CoreCompileInputs.cache
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CopyComplete
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.exe
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.pdb
+F:\ff\EmpManagementTuto\obj\Debug\EmpManagementTuto.Salary.resources
+F:\working\C# project\Projects\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe.config
+F:\working\C# project\Projects\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe
+F:\working\C# project\Projects\EmpManagementTuto\bin\Debug\EmpManagementTuto.pdb
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.AssemblyReference.cache
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.Employee.resources
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.Form1.resources
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.Home.resources
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.Login.resources
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.Properties.Resources.resources
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.Salary.resources
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.GenerateResource.cache
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CoreCompileInputs.cache
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CopyComplete
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.exe
+F:\working\C# project\Projects\EmpManagementTuto\obj\Debug\EmpManagementTuto.pdb
+F:\working\C# project\Projects\EmpManagementTuto\bin\Debug\Guna.UI2.dll
